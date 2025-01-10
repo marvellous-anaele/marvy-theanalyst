@@ -2,7 +2,7 @@
 
 ## This is Marvellous Anaele.
 
-## I am a Chemical Engineer who has delved into Data Analyst/Business Analyst.
+## I am a Chemical Engineer who has delved into Data Analytics/Business Analysis.
 
 - 👀 I’m interested in cleaning, transforming, modelling and analysing data for business insights.
 - 🌱 I’m currently working on different projects to challenge myself and grow my Data Analytics Skills.
