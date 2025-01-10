@@ -12,7 +12,7 @@
 - 📫 How to reach me:[Linkedin](https://www.linkedin.com/in/marvellous-anaele-2813752b4/)
 - 😄 Pronouns:She
 - ⚡ Fun fact: I love to be a mentor most especially to the younger ones
-marvy-theanalyst
+
 
 ## My Arsenal:
 - Microsoft Excel
